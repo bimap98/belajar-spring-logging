@@ -1,0 +1,2 @@
+2022-07-24 00:13:58.892  WARN 5456 --- [main] p.belajarspringlogging.LoggingTest       : Belajar Spring
+2022-07-24 00:13:58.900 ERROR 5456 --- [main] p.belajarspringlogging.LoggingTest       : Belajar Programmer Zaman Now
